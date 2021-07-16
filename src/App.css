@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  border: 5px solid rgb(7, 17, 61);
+  border-radius: 5px;
+  margin: 25px;
+  padding: 25px 0;
+}
